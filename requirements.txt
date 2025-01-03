@@ -1,0 +1,5 @@
+transformers
+torch
+numpy
+scikit-learn
+faiss-cpu  # Or faiss-gpu if you have CUDA
